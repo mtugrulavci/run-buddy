@@ -2,6 +2,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }
 body {
     /* more on this crazy alphanumerical value in a minute! */
@@ -55,9 +56,4 @@ header nav ul li a {
   }
   footer a {
     color: #024e76;
-  }
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
   }
