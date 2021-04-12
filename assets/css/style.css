@@ -155,7 +155,6 @@ header nav ul li a {
     font-size: 46px;
     margin-top: 10px;
   }
-  
   .steps p {
     color: #39a6b2;
     font-size: 23px;
@@ -165,7 +164,6 @@ header nav ul li a {
   }
   .trainers {
     text-align: center;
-
   }
   .trainer {
     width: 900px;
@@ -178,7 +176,6 @@ header nav ul li a {
     width: 35%;
     float: left;
   }
-  
   .trainer-bio {
     padding: 35px;
     float: left;
@@ -186,8 +183,7 @@ header nav ul li a {
   }
   .text-left {
     text-align: left;
-  }
-  
+  } 
   .text-right {
     text-align: right;
   }
